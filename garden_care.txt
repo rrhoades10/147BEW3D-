@@ -1,0 +1,8 @@
+Sunflower:
+----sunlight: full sun----
+----water: it needs some water----
+----pruning: prune it----
+Rose:
+----sunlight: full sun----
+----water: it needs some water----
+----pruning: prune it----
